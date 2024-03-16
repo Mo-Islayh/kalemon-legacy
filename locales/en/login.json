@@ -1,0 +1,18 @@
+{
+  "title": "Login",
+  "sub-title": "Welcome back",
+  "mobile-input-placeholder": "Phone Number",
+  "password-input-placeholder": "Password",
+  "JO": "Jordan",
+  "SA": "Saudi Arabia",
+  "mobile-input-invalid-message": "Invalid number",
+  "forgot-password-?": "Forgot Password?",
+  "login-button": "Log In",
+  "email-input-invalid-message": "Invalid email",
+  "email-input-placeholder": "Email",
+  "tabs-phone": "Phone Number",
+  "tabs-email": "Email",
+  "incorrect-credential": "Failed to log in due to incorrect email or password",
+  "you-dont-have-account": "Don't have an account?",
+  "create-account": "Create an account"
+}

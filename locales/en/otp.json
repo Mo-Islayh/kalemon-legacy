@@ -1,0 +1,10 @@
+{
+  "title": "Enter the Code",
+  "sub-title": "Enter the 4-digit code we sent to the number +962799999999",
+  "invalid-otp-message": "Invalid code",
+  "send-otp": "Send Code",
+  "did-not-recieve-otp": "Didn't receive the code?",
+  "resend-otp": "Resend Code",
+  "register-successful": "Registration Successful!",
+  "start-button": "Get Started"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "تسجيل الدخول",
+  "sub-title": "أهلاً بعودتك",
+  "mobile-input-placeholder": "رقم الهاتف",
+  "password-input-placeholder": "كلمة السر",
+  "JO": "الاردن",
+  "SA": "السعودية",
+  "mobile-input-invalid-message": "الرقم غير صحيح",
+  "forgot-password-?": "نسيت كلمة السر؟",
+  "login-button": "دخول",
+  "email-input-invalid-message": "البريد الإلكتروني غير صحيح",
+  "email-input-placeholder": "البريد الألكتروني",
+  "tabs-phone": "رقم الهاتف",
+  "tabs-email": "البريد الالكتروني",
+  "incorrect-credential": "تعذر الدخول بسبب (البريد الإلكتروني او كلمة السر)",
+  "you-dont-have-account": " ليس لديك حساب؟",
+  "create-account": " إنشاء حساب"
+}
